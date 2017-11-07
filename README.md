@@ -1,1 +1,2 @@
-this is master
+public static Class A(){
+}
