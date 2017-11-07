@@ -1,2 +1,1 @@
-public static Class A(){
-}
+sdf

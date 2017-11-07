@@ -1,1 +1,4 @@
-//a.java
+
+class A{
+
+}
